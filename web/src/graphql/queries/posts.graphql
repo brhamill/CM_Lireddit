@@ -1,0 +1,15 @@
+query Posts {
+  posts {
+    id
+    title
+    content
+    imgUrl
+    upvoteCount
+    creator {
+      id
+      username
+    }
+    createdAt
+    updatedAt
+  }
+}

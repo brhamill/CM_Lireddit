@@ -1,0 +1,21 @@
+Lireddit:
+  ✔ Images in posts @done(20-10-30 15:36)
+  ✔ Upvote/Downvote posts @done(20-10-31 19:48)
+  ✔ Edit posts @done(20-10-30 18:39)
+  ✔ Delete posts @done(20-10-30 18:39)
+  ☐ Post Comments
+  ✔ Profile page @done(20-10-28 22:51)
+  ☐ User has name, image and bio
+  ☐ Pagination (posts, comments)
+  ☐ Password reset
+
+  Subreddits:
+    ☐ Every post is made in a sub
+    ☐ One default sub: random/default/all something like that
+    ☐ Users can create/delete subs
+    ☐ Subs have name, image and bio
+      -> same as user, can use same sidebar and same create form with validation
+  
+  Deploy:
+    ☐ Deploy on hetzner, no docker
+    ☐ Figure out how to do updates to deployed server easily
